@@ -1,11 +1,11 @@
 {
     "id": "7E9CFB07",
-    "path": null,
-    "project_path": null,
+    "path": "~/GitHub/Lab-12/lab12.R",
+    "project_path": "lab12.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1213551413",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1758460407315.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "114"
     },
     "folds": "",
-    "lastKnownWriteTime": 7811889803634420770,
-    "encoding": "",
+    "lastKnownWriteTime": 1758464973,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1758464543711,
+    "last_content_update": 1758464973619,
     "read_only": false,
     "read_only_alternatives": []
 }
